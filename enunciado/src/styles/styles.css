@@ -24,7 +24,7 @@ body {
 #game {
   background-color: white;
   position: relative;
-  background-image: url('/backgrounds/background_3.png');
+  background-image: url('../../resources/background_3.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
